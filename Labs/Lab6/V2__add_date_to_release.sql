@@ -1,0 +1,1 @@
+ALTER TABLE release_ ADD COLUMN date_ date;
